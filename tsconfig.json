@@ -3,7 +3,10 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "@screens/*": ["./src/screens/*"]
+      "@screens/*": ["./src/screens/*"],
+      "@components/*": ["./src/components/*"],
+      "@routes/*": ["./src/routes/*"],
+      "@script/*": ["./src/script/*"]
     }
   },
 }

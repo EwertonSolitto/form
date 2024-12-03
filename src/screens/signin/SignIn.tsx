@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import { Text, TextInput, View } from 'react-native';
 
 import { styles } from './SignInStyles';
-import CButton from '../../components/cbutton/CButton';
+import CButton from '@components/cbutton/CButton';
 import { useNavigation } from '@react-navigation/native';
-import usersList from '../../script/usersList';
-import User from '../../script/User';
+import usersList from '@script/usersList';
+import User from '@script/User';
 
 export default function SignIn() {
   const navigation = useNavigation()

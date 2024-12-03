@@ -1,4 +1,4 @@
-import Navigation from "./src/routes";
+import Navigation from "@routes/index";
 
 export default function App() {
   return (
