@@ -13,24 +13,28 @@ const RootStack = createNativeStackNavigator({
       screen: Home,
       options: {
         title: 'Home',
+        headerShown: false
       },
     },  
     Logged: {
       screen: Logged,
       options: {
         title: 'Logged',
+        headerShown: false
       },
     },  
     SignIn: {
       screen: SignIn,
       options: {
         title: 'SignIn',
+        headerShown: false
       },
     },  
     SignUp: {
       screen: SignUp,
       options: {
         title: 'SignUp',
+        headerShown: false
       },
     },  
   },
