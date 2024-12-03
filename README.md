@@ -7,8 +7,8 @@
 # Preview 📱
 
 <div align='center'>
-  <img src='https://github.com/EwertonSolitto/login-app/blob/main/assets/readme-1.jpeg' width=360/>
   <img src='https://github.com/EwertonSolitto/login-app/blob/main/assets/readme-2.jpeg' width=360/>
+  <img src='https://github.com/EwertonSolitto/login-app/blob/main/assets/readme-1.jpeg' width=360/>
 </div>
 
 # Features 🔥
